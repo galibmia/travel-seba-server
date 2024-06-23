@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Cox's Bazar",
+        "description": "Cox's Bazar is known for its long natural sandy beach, which is the longest in the world, stretching over 120 kilometers. It is a popular tourist destination, famous for its beautiful sunsets, and bustling beach markets. The town also features attractions like Himchari National Park, Inani Beach, and the nearby island of Maheshkhali."
+    },
+    {
+        "id": 2,
+        "name": "Sreemangal",
+        "description": "Sreemangal is famous for its tea gardens, lush green landscapes, and the Lawachara National Park. It is often referred to as the 'Tea Capital of Bangladesh.' Visitors can enjoy the serene beauty of the tea plantations, visit the local tribal villages, and explore the Lawachara Rainforest, which is home to diverse wildlife including the endangered hoolock gibbons."
+    },
+    {
+        "id": 3,
+        "name": "Sundarbans",
+        "description": "The Sundarbans is the largest mangrove forest in the world and home to the Royal Bengal Tiger. This UNESCO World Heritage Site is a unique ecosystem that supports a wide variety of flora and fauna. Visitors can embark on boat safaris to catch glimpses of the elusive tigers, saltwater crocodiles, and various species of birds. The Sundarbans also play a crucial role in protecting the coastal regions from storms and tidal surges."
+    },
+    {
+        "id": 4,
+        "name": "Bandarban",
+        "description": "Bandarban is known for its beautiful hills, tribal culture, and stunning waterfalls like Nafakhum and Shoilo Propat. It is a haven for trekkers and adventure enthusiasts. The area is rich in cultural diversity with various indigenous tribes, such as the Marma, Chakma, and Mro. Key attractions include the serene Boga Lake, the Golden Temple (Buddha Dhatu Jadi), and the peak of Nilgiri Hill, which offers breathtaking views of the surrounding landscape."
+    },
+    {
+        "id": 5,
+        "name": "Sylhet",
+        "description": "Sylhet is famous for its tea gardens, the Shrine of Hazrat Shah Jalal, and picturesque places like Ratargul Swamp Forest and Jaflong. The region is known for its natural beauty, with lush green hills and clear rivers. Sylhet is also a spiritual hub, attracting pilgrims to its numerous shrines and mosques. Visitors can enjoy boat rides in the Ratargul Swamp Forest, visit the picturesque Jaflong Valley, and explore the vibrant local culture and cuisine."
+    }
+]

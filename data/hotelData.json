@@ -1,0 +1,377 @@
+[
+    {
+        "id": 1,
+        "category": 1,
+        "name": "Seaside Paradise Hotel",
+        "location": "Cox's Bazar",
+        "room": {
+            "type": "Deluxe Room",
+            "number_of_beds": 2,
+            "number_of_baths": 1,
+            "number_of_guests": 4
+        },
+        "rating": 4.5,
+        "number_of_ratings": 320,
+        "price_per_night": 150
+    },
+    {
+        "id": 2,
+        "category": 1,
+        "name": "Ocean View Resort",
+        "location": "Cox's Bazar",
+        "room": {
+            "type": "Suite",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 2
+        },
+        "rating": 4.8,
+        "number_of_ratings": 270,
+        "price_per_night": 180
+    },
+    {
+        "id": 3,
+        "category": 1,
+        "name": "Beachside Inn",
+        "location": "Cox's Bazar",
+        "room": {
+            "type": "Standard Room",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 2
+        },
+        "rating": 4.2,
+        "number_of_ratings": 410,
+        "price_per_night": 90
+    },
+    {
+        "id": 4,
+        "category": 1,
+        "name": "Sunset Bay Hotel",
+        "location": "Cox's Bazar",
+        "room": {
+            "type": "Luxury Suite",
+            "number_of_beds": 2,
+            "number_of_baths": 2,
+            "number_of_guests": 4
+        },
+        "rating": 4.9,
+        "number_of_ratings": 350,
+        "price_per_night": 250
+    },
+    {
+        "id": 5,
+        "category": 1,
+        "name": "Coral Reef Hotel",
+        "location": "Cox's Bazar",
+        "room": {
+            "type": "Cottage",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 3
+        },
+        "rating": 4.6,
+        "number_of_ratings": 290,
+        "price_per_night": 160
+    },
+    {
+        "id": 6,
+        "category": 2,
+        "name": "Tea Garden Resort",
+        "location": "Sreemongol",
+        "room": {
+            "type": "Deluxe Room",
+            "number_of_beds": 2,
+            "number_of_baths": 1,
+            "number_of_guests": 4
+        },
+        "rating": 4.6,
+        "number_of_ratings": 180,
+        "price_per_night": 120
+    },
+    {
+        "id": 7,
+        "category": 2,
+        "name": "Rainforest Lodge",
+        "location": "Sreemongol",
+        "room": {
+            "type": "Suite",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 2
+        },
+        "rating": 4.7,
+        "number_of_ratings": 140,
+        "price_per_night": 140
+    },
+    {
+        "id": 8,
+        "category": 2,
+        "name": "Lawachara Eco Resort",
+        "location": "Sreemongol",
+        "room": {
+            "type": "Cottage",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 3
+        },
+        "rating": 4.5,
+        "number_of_ratings": 160,
+        "price_per_night": 110
+    },
+    {
+        "id": 9,
+        "category": 2,
+        "name": "Grand Sultan Tea Resort & Golf",
+        "location": "Sreemongol",
+        "room": {
+            "type": "Luxury Suite",
+            "number_of_beds": 2,
+            "number_of_baths": 2,
+            "number_of_guests": 4
+        },
+        "rating": 4.9,
+        "number_of_ratings": 200,
+        "price_per_night": 200
+    },
+    {
+        "id": 10,
+        "category": 2,
+        "name": "Green Leaf Guest House",
+        "location": "Sreemongol",
+        "room": {
+            "type": "Standard Room",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 2
+        },
+        "rating": 4.4,
+        "number_of_ratings": 110,
+        "price_per_night": 80
+    },
+    {
+        "id": 11,
+        "category": 3,
+        "name": "Mangrove Eco Resort",
+        "location": "Sundarbans",
+        "room": {
+            "type": "Deluxe Room",
+            "number_of_beds": 2,
+            "number_of_baths": 1,
+            "number_of_guests": 4
+        },
+        "rating": 4.7,
+        "number_of_ratings": 150,
+        "price_per_night": 140
+    },
+    {
+        "id": 12,
+        "category": 3,
+        "name": "Tiger Point Resort",
+        "location": "Sundarbans",
+        "room": {
+            "type": "Suite",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 2
+        },
+        "rating": 4.8,
+        "number_of_ratings": 180,
+        "price_per_night": 160
+    },
+    {
+        "id": 13,
+        "category": 3,
+        "name": "Royal Bengal Lodge",
+        "location": "Sundarbans",
+        "room": {
+            "type": "Standard Room",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 2
+        },
+        "rating": 4.4,
+        "number_of_ratings": 210,
+        "price_per_night": 100
+    },
+    {
+        "id": 14,
+        "category": 3,
+        "name": "Mangrove Retreat",
+        "location": "Sundarbans",
+        "room": {
+            "type": "Luxury Suite",
+            "number_of_beds": 2,
+            "number_of_baths": 2,
+            "number_of_guests": 4
+        },
+        "rating": 4.9,
+        "number_of_ratings": 220,
+        "price_per_night": 220
+    },
+    {
+        "id": 15,
+        "category": 3,
+        "name": "Wildlife Haven Hotel",
+        "location": "Sundarbans",
+        "room": {
+            "type": "Cottage",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 3
+        },
+        "rating": 4.6,
+        "number_of_ratings": 190,
+        "price_per_night": 130
+    },
+    {
+        "id": 16,
+        "category": 4,
+        "name": "Hilltop Lodge",
+        "location": "Bandarban",
+        "room": {
+            "type": "Suite",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 2
+        },
+        "rating": 4.8,
+        "number_of_ratings": 95,
+        "price_per_night": 150
+    },
+    {
+        "id": 17,
+        "category": 4,
+        "name": "Nafakhum Resort",
+        "location": "Bandarban",
+        "room": {
+            "type": "Deluxe Room",
+            "number_of_beds": 2,
+            "number_of_baths": 1,
+            "number_of_guests": 4
+        },
+        "rating": 4.6,
+        "number_of_ratings": 120,
+        "price_per_night": 130
+    },
+    {
+        "id": 18,
+        "category": 4,
+        "name": "Golden Temple Inn",
+        "location": "Bandarban",
+        "room": {
+            "type": "Standard Room",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 2
+        },
+        "rating": 4.4,
+        "number_of_ratings": 85,
+        "price_per_night": 100
+    },
+    {
+        "id": 19,
+        "category": 4,
+        "name": "Nilgiri Hill Resort",
+        "location": "Bandarban",
+        "room": {
+            "type": "Luxury Suite",
+            "number_of_beds": 2,
+            "number_of_baths": 2,
+            "number_of_guests": 4
+        },
+        "rating": 4.9,
+        "number_of_ratings": 105,
+        "price_per_night": 180
+    },
+    {
+        "id": 20,
+        "category": 4,
+        "name": "Green Valley Lodge",
+        "location": "Bandarban",
+        "room": {
+            "type": "Cottage",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 3
+        },
+        "rating": 4.5,
+        "number_of_ratings": 140,
+        "price_per_night": 110
+    },
+    {
+        "id": 21,
+        "category": 5,
+        "name": "Heritage Park Hotel",
+        "location": "Dhaka",
+        "room": {
+            "type": "Deluxe Room",
+            "number_of_beds": 2,
+            "number_of_baths": 1,
+            "number_of_guests": 4
+        },
+        "rating": 4.7,
+        "number_of_ratings": 240,
+        "price_per_night": 180
+    },
+    {
+        "id": 22,
+        "category": 5,
+        "name": "Urban Chic Hotel",
+        "location": "Dhaka",
+        "room": {
+            "type": "Suite",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 2
+        },
+        "rating": 4.8,
+        "number_of_ratings": 220,
+        "price_per_night": 200
+    },
+    {
+        "id": 23,
+        "category": 5,
+        "name": "Dhaka Grand Hotel",
+        "location": "Dhaka",
+        "room": {
+            "type": "Standard Room",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 2
+        },
+        "rating": 4.4,
+        "number_of_ratings": 270,
+        "price_per_night": 120
+    },
+    {
+        "id": 24,
+        "category": 5,
+        "name": "Central Plaza Hotel",
+        "location": "Dhaka",
+        "room": {
+            "type": "Luxury Suite",
+            "number_of_beds": 2,
+            "number_of_baths": 2,
+            "number_of_guests": 4
+        },
+        "rating": 4.9,
+        "number_of_ratings": 260,
+        "price_per_night": 220
+    },
+    {
+        "id": 25,
+        "category": 5,
+        "name": "Lakeside Inn",
+        "location": "Dhaka",
+        "room": {
+            "type": "Cottage",
+            "number_of_beds": 1,
+            "number_of_baths": 1,
+            "number_of_guests": 3
+        },
+        "rating": 4.6,
+        "number_of_ratings": 230,
+        "price_per_night": 150
+    }
+]
