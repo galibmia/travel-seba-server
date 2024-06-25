@@ -21,7 +21,6 @@ app.get('/location', (req, res) => {
 app.get('/location/:id', (req, res) => {
     const id = parseInt(req.params.id);
     const selectedID = location.find(n => n.id === id);
-    console.log(selectedID)
     res.send(selectedID);
 })
 

@@ -303,7 +303,7 @@
         "id": 21,
         "category": 5,
         "name": "Heritage Park Hotel",
-        "location": "Dhaka",
+        "location": "Sylhet",
         "room": {
             "type": "Deluxe Room",
             "number_of_beds": 2,
@@ -318,7 +318,7 @@
         "id": 22,
         "category": 5,
         "name": "Urban Chic Hotel",
-        "location": "Dhaka",
+        "location": "Sylhet",
         "room": {
             "type": "Suite",
             "number_of_beds": 1,
@@ -332,8 +332,8 @@
     {
         "id": 23,
         "category": 5,
-        "name": "Dhaka Grand Hotel",
-        "location": "Dhaka",
+        "name": "Sylhet Grand Hotel",
+        "location": "Sylhet",
         "room": {
             "type": "Standard Room",
             "number_of_beds": 1,
@@ -348,7 +348,7 @@
         "id": 24,
         "category": 5,
         "name": "Central Plaza Hotel",
-        "location": "Dhaka",
+        "location": "Sylhet",
         "room": {
             "type": "Luxury Suite",
             "number_of_beds": 2,
@@ -363,7 +363,7 @@
         "id": 25,
         "category": 5,
         "name": "Lakeside Inn",
-        "location": "Dhaka",
+        "location": "Sylhet",
         "room": {
             "type": "Cottage",
             "number_of_beds": 1,
